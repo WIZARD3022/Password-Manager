@@ -23,7 +23,7 @@ const Navbar = () => {
           </li>
         </ul> */}
         <button className=" relative cursor-pointer hover:opacity-50">
-            <img className="invert w-14 " src="/icons/github.svg" alt="Github logo" />
+            <img className="invert w-14 " src="/github.svg" alt="Github logo" />
             <div className="absolute -bottom-1 left-2.5 font-bold text-xs">GitHub</div>
         </button>
       </div>
